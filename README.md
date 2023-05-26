@@ -1,0 +1,2 @@
+# World-Food-Consumption-Trends
+In this project, i focus  on data manipulation and analysis using pandas and NumPy in Python. The dataset from the FAO is utilized to perform various operations such as reading, filtering, selecting, and dropping columns. Descriptive statistics were generated to extract valuable insights. The project showcased skills in handling large datasets, cleaning and preprocessing data, and making data-driven decisions. Overall, I demonstrated a strong command of data manipulation, analysis, and visualization skills.
